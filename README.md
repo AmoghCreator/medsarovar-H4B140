@@ -11,10 +11,20 @@ MedSarovar is a Telegram Bot that empowers users in India to navigate the health
  - Secure Medical Record Sharing: Share medical records securely with your doctor, ensuring continuity of care.
 
 # Tech Stack:
- - Artificial Intelligence: Utilizes machine learning algorithms for doctor matching.
- - Cloud Platform: Built on a secure and scalable cloud infrastructure.
- - Mobile App Development: Native apps for Android and iOS platforms.
- - Secure Communication: Encrypted messaging protects user privacy.
+## Frontend:
+ - HTML, CSS: Building the user interface of the Telegram bot.
+## Backend:
+ - Javascript, Node.js: Core development language and runtime environment for the bot's logic.
+ - Solidity: Programming language for smart contracts deployed on the Avalanche blockchain.
+ - Avalanche: Blockchain platform for secure and decentralized data management.
+ - MongoDB: Database for storing user information and doctor data.
+## APIs and Integrations:
+ - OpenAI API:Used for preliminary diagnosis based on user symptoms.
+ - Firebase SDK: Integration with Firebase for functionalities like user authentication or real-time messaging.
+ - Firebase Genkit: (Optional) Tool for managing Firebase project configuration .
+ - Gemma: (Unidentified library - clarify its purpose if used).
+ - GCP (Google Cloud Platform): Cloud infrastructure potentially used for hosting the bot or specific services .
+ - CallChimp SDK: Integration with CallChimp for appointment confirmation emails .
 
 ## Features
 
