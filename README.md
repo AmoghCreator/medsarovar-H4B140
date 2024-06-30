@@ -1,6 +1,20 @@
-# Telegram Medical Assistant Bot
+# MedSarovar: Your One-Stop Shop for Affordable Healthcare (README.md)
 
-This project is a Telegram bot designed to assist users with booking medical appointments. The bot collects user information, provides a preliminary diagnosis, and recommends doctors based on the user's symptoms and budget.
+MedSarovar is a Telegram Bot that empowers users in India to navigate the healthcare landscape with ease. Our AI-powered platform tackles common pain points by helping users:
+ - Find Budget-Friendly Specialists: Get matched with doctors who fit your budget and address your specific needs.
+ - Skip the Wait: Effortlessly book and manage appointments, saving you valuable time.
+ - Get the Right Care: Securely share medical records with doctors for a seamless flow of information and a more accurate diagnosis.
+
+# MedSarovar simplifies your healthcare journey:
+ - AI-powered Doctor Matching: Our AI engine matches you with the best-suited doctor based on your budget and symptoms. 🩺₹
+ - Effortless Appointment Booking: Manage appointments directly through the app, saving you time and hassle. ⏱️
+ - Secure Medical Record Sharing: Share medical records securely with your doctor, ensuring continuity of care.
+
+# Tech Stack:
+ - Artificial Intelligence: Utilizes machine learning algorithms for doctor matching.
+ - Cloud Platform: Built on a secure and scalable cloud infrastructure.
+ - Mobile App Development: Native apps for Android and iOS platforms.
+ - Secure Communication: Encrypted messaging protects user privacy.
 
 ## Features
 
