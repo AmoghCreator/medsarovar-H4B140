@@ -86,7 +86,7 @@ The bot communicates with an external API to handle appointment bookings. Ensure
 
 ## Demo
 
-Watch the [YouTube demo](#) to see the bot in action.
+Watch the [https://youtu.be/e7Lbv203Zbw](#) to see the bot in action.
 
 ## Contributing
 
