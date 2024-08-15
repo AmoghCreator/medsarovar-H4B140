@@ -15,11 +15,11 @@ app.get('/call', async (req, res) => {
     const response = await axios.post(
       'https://api.callchimp.ai/v1/calls',
       {
-        lead: 837492,
+        lead: 837491,
       },
       {
         headers: {
-          'x-api-key': 'VOBZcmXn.7NT7UN2dFqA4jnUZQrk9G2y5KswQXe3H',
+          'x-api-key': 'zzTAh5Zs.bv29CY14fzuInRz8lfDWWZfrTTlK68NL',
         },
       },
     );
@@ -86,7 +86,7 @@ app.post('/action', async (req, res) => {
     analysisResult['chat_id'] = '761762992';
     console.log(analysisResult)
     await axios.post(
-      'https://e4b4-2401-4900-706f-6eff-7330-e323-f7c8-c1e3.ngrok-free.app/sendAppointment',
+      'https://20e1-223-231-212-241.ngrok-free.app/sendAppointment',
       analysisResult,
     );
 
