@@ -1,6 +1,30 @@
-# Telegram Medical Assistant Bot
+# MedSarovar: Your One-Stop Shop for Affordable Healthcare (README.md)
 
-This project is a Telegram bot designed to assist users with booking medical appointments. The bot collects user information, provides a preliminary diagnosis, and recommends doctors based on the user's symptoms and budget.
+MedSarovar is a Telegram Bot that empowers users in India to navigate the healthcare landscape with ease. Our AI-powered platform tackles common pain points by helping users:
+ - Find Budget-Friendly Specialists: Get matched with doctors who fit your budget and address your specific needs.
+ - Skip the Wait: Effortlessly book and manage appointments, saving you valuable time.
+ - Get the Right Care: Securely share medical records with doctors for a seamless flow of information and a more accurate diagnosis.
+
+# MedSarovar simplifies your healthcare journey:
+ - AI-powered Doctor Matching: Our AI engine matches you with the best-suited doctor based on your budget and symptoms. 🩺₹
+ - Effortless Appointment Booking: Manage appointments directly through the app, saving you time and hassle. ⏱️
+ - Secure Medical Record Sharing: Share medical records securely with your doctor, ensuring continuity of care.
+
+# Tech Stack:
+## Frontend:
+ - HTML, CSS: Building the user interface of the Telegram bot.
+## Backend:
+ - Javascript, Node.js: Core development language and runtime environment for the bot's logic.
+ - Solidity: Programming language for smart contracts deployed on the Avalanche blockchain.
+ - Avalanche: Blockchain platform for secure and decentralized data management.
+ - MongoDB: Database for storing user information and doctor data.
+## APIs and Integrations:
+ - OpenAI API:Used for preliminary diagnosis based on user symptoms.
+ - Firebase SDK: Integration with Firebase for functionalities like user authentication or real-time messaging.
+ - Firebase Genkit: (Optional) Tool for managing Firebase project configuration .
+ - Gemma: (Unidentified library - clarify its purpose if used).
+ - GCP (Google Cloud Platform): Cloud infrastructure potentially used for hosting the bot or specific services .
+ - CallChimp SDK: Integration with CallChimp for appointment confirmation emails .
 
 ## Features
 
@@ -62,7 +86,7 @@ The bot communicates with an external API to handle appointment bookings. Ensure
 
 ## Demo
 
-Watch the [YouTube demo](#) to see the bot in action.
+Watch the [https://youtu.be/e7Lbv203Zbw](#) to see the bot in action.
 
 ## Contributing
 
