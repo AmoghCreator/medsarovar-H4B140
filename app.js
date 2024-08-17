@@ -231,7 +231,7 @@ bot.on('callback_query', async callbackQuery => {
     // Handle the booking process and make the API call
     try {
       const response = await axios.get(
-        'http://pggswcscwkok0o8s8gwk48o8.5.223.44.80.sslip.io/call',
+        'https://hack4bengal-427819.el.r.appspot.com/call',
         {
           doctorId: selectedDoctor._id,
           chatId: chatId,
