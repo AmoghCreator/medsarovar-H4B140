@@ -86,7 +86,7 @@ app.post('/action', async (req, res) => {
     analysisResult['chat_id'] = '761762992';
     console.log(analysisResult)
     await axios.post(
-      'https://20e1-223-231-212-241.ngrok-free.app/sendAppointment',
+      'http://pggswcscwkok0o8s8gwk48o8.5.223.44.80.sslip.io/sendAppointment',
       analysisResult,
     );
 
